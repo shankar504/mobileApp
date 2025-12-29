@@ -1,5 +1,5 @@
 # Video Streaming Platform Backend
-
+##testing auto deployment trigger for cloud run
 This is a Node.js backend application that provides video streaming capabilities with PostgreSQL database. The application allows administrators to upload videos with subtitles and manages them through a series and episode structure.
 
 ## Features
